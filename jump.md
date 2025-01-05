@@ -6,12 +6,12 @@
 
 ### じゃんたま
 
-* <a href='javascript:window.open("https://game.mahjongsoul.com/index.html", "mahjongsoul", "width=1280,height=760");'>じゃんたま: 1280x760</a>
-* <a href='javascript:window.open("https://game.mahjongsoul.com/index.html", "mahjongsoul", "width=1920,height=1200");'>じゃんたま: 1920x1200</a>
-* <a href='javascript:window.open("https://game.mahjongsoul.com/index.html", "mahjongsoul", "width=1920,height=1080");'>じゃんたま: 1920x1080</a>
+* <a href='javascript:window.open("https://game.mahjongsoul.com/index.html", "mahjongsoul-hd", "width=1280,height=760");'>じゃんたま: 1280x760</a>
+* <a href='javascript:window.open("https://game.mahjongsoul.com/index.html", "mahjongsoul-wuxga", "width=1920,height=1200");'>じゃんたま: 1920x1200</a>
+* <a href='javascript:window.open("https://game.mahjongsoul.com/index.html", "mahjongsoul-fullhd", "width=1920,height=1080");'>じゃんたま: 1920x1080</a>
 
 ### コードネーム
 
-* <a href='javascript:window.open("https://codenames.game/", "codenames", "width=1280,height=760");'>コードネーム: 1280x760</a>
-* <a href='javascript:window.open("https://codenames.game/", "codenames", "width=1920,height=1200");'>コードネーム: 1920x1200</a>
-* <a href='javascript:window.open("https://codenames.game/", "codenames", "width=1920,height=1080");'>コードネーム: 1920x1080</a>
+* <a href='javascript:window.open("https://codenames.game/", "codenames-hd", "width=1280,height=760");'>コードネーム: 1280x760</a>
+* <a href='javascript:window.open("https://codenames.game/", "codenames-wuxga", "width=1920,height=1200");'>コードネーム: 1920x1200</a>
+* <a href='javascript:window.open("https://codenames.game/", "codenames-fullhd", "width=1920,height=1080");'>コードネーム: 1920x1080</a>
