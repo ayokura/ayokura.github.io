@@ -3,7 +3,6 @@
 ### God Field
 
 * <a href='javascript:window.open("https://godfield.net/", "GFLV", "width=1100,height=740");'>God Field: 1100×740</a>
-* <a href='javascript:window.open("https://godfield.net/", "GFLV", "width=1100,height=760");'>God Field: 1100×760</a>
 
 ### じゃんたま
 
